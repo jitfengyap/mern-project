@@ -5,9 +5,9 @@ const ProductSchema = new mongoose.Schema(
     name: String,
     price: Number,
     description: String,
-    catregfory: String,
+    category: String,
     rating: Number,
-    supplu: Number,
+    supply: Number,
   },
   { timestamps: true }
 );

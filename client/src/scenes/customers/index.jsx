@@ -79,10 +79,6 @@ const Customers = () => {
           "& .MuiDataGrid-toolbarContainer .MuiButton-text": {
             color: `${theme.palette.secondary[200]} !important`,
           },
-          "& .css-tktar8-MuiDataGrid-root .MuiDataGrid-container--top [role=row], .css-tktar8-MuiDataGrid-root .MuiDataGrid-container--bottom [role=row]":
-            {
-              backgound: theme.palette.background.alt,
-            },
         }}
       >
         <DataGrid
