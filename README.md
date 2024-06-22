@@ -1,5 +1,5 @@
-Fixed Data: Admin Sales Dashboard Mern Project 
-Tools used
+Fixed Data: Admin Sales Dashboard Mern Project/n
+Tools used/n
 Mongo DB
 Mongoose
 Express.js
